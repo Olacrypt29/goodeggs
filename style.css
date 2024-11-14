@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 20px 0 0 0;
+    font-family: sans-serif;
+}
+
+.harm{
+    height: 500px;
+    background-image: url(bottle.jpg);
+    background-repeat: no-repeat;
+    background-size: 150%;
+    padding: 20px 0 20px 200px;
+}
+
+.harm img{
+    height: 120px;
+}
+
+.harm h1{
+    color: white;
+    font-weight: 900;
+    font-size: 42px;
+    margin: 0 0 -7px 0;
+}
+
+.harm button{
+    padding: 12px 8px 12px 8px;
+    border: none;
+    background-color: white;
+    font-weight: 900;
+    border-radius: 50px;
+    margin: 35px 0 0 0;
+}
+.harm h6{
+    color: white;
+    font-weight: 900;
+    font-size: 12px;
+    margin: 4px 0 0 0;
+}
+
+.eggs{
+    margin: 40px 0 0 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.eggs img{
+    height: 200px;
+    width: 350px;
+
+}
+
+.dog span{
+    background-color: white;
+    height: 250px;
+    width: 240px;
+    position: absolute;
+    margin: 170px 0 0 -300px;
+}
